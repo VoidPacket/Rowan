@@ -10,16 +10,16 @@ canonifyURLs = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
-  homeInfoParams = { 
-    Title = "Field Report Archive", 
-    Content = "A living record of Rowan's journey—written like war logs and personal dispatches." 
-  }
+
+  [params.homeInfoParams]
+    Title = "Field Report Archive"
+    Content = "A living record of Rowan's journey—written like war logs and personal dispatches."
+
+  [params.assets]
+    customCSS = ["css/custom.css"]
 
 [[menu.main]]
   identifier = "posts"
   name = "Reports"
   url = "/posts/"
   weight = 1
-
-[params.assets]
-  customCSS = ["css/custom.css"]

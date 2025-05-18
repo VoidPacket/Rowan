@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Fragmented Packet</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Fragmented Packet</description>
+    <title>Rowan&#39;s War Journal</title>
+    <link>https://rowan.fragmentedpacket.com/</link>
+    <description>Recent content on Rowan&#39;s War Journal</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 May 2025 16:19:20 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rowan.fragmentedpacket.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day 1 Report</title>
-      <link>http://localhost:1313/posts/day_1_report/</link>
+      <link>https://rowan.fragmentedpacket.com/posts/day_1_report/</link>
       <pubDate>Thu, 15 May 2025 16:19:20 -0400</pubDate>
-      <guid>http://localhost:1313/posts/day_1_report/</guid>
+      <guid>https://rowan.fragmentedpacket.com/posts/day_1_report/</guid>
       <description>&lt;p&gt;Rowen&amp;rsquo;s report of Day 1. The crew of the BBC (Big Black Comedy) continues to meet expectations.&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; The frog man known as Rimi continues to suggest that we 
- warn Bastion and the Emerald 
- Enclave of our intentions to attack them.
-&lt;/code&gt;&lt;/pre&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;The frog man known as Rimi continues to suggest that we warn Bastion and the Emerald Enclave of our intentions to attack them.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Guyhoo abandons the group frequently without warning.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Guyhoo and Ganvil requested an audience with the Queen. Guyhoo said it was &lt;strong&gt;URGENT&lt;/strong&gt; I escorted them to her, it was not urgent at all.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
