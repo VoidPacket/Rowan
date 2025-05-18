@@ -1,6 +1,6 @@
 baseURL = "https://rowan.fragmentedpacket.com/"
 languageCode = "en-us"
-title = "Rowan's War Journal"
+title = "Rowan's Field Reports"
 theme = "PaperMod"
 relativeURLs = true
 canonifyURLs = true
@@ -13,7 +13,7 @@ canonifyURLs = true
 
   [params.homeInfoParams]
     Title = "Field Report Archive"
-    Content = "A living record of Rowan's journey—written like war logs and personal dispatches."
+    Content = "Daily reports from Sir Rowan."
 
   [params.assets]
     customCSS = ["css/custom.css"]
