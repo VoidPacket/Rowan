@@ -9,6 +9,8 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
   homeInfoParams = { Title = "Field Report Archive", Content = "A living record of my D&D characters, written like war journals and mission logs." }
+  relativeURLs = true
+  canonifyURLs = true
 
 [[menu.main]]
   identifier = "posts"
