@@ -5,7 +5,7 @@ title = 'Day 1 Report'
 +++
 Rowen's report of Day 1. The crew of the BBC (Big Black Comedy) continues to meet expectations.
 
-
+--- START OF REPORT ---
 
 > The frog man known as Rimi continues to suggest that we warn Bastion and the Emerald Enclave of our intentions to attack them.
 

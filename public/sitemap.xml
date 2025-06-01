@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rowan.fragmentedpacket.com/posts/day_1_report/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-01T19:27:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-01T19:27:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/day_1_report/</loc>
     <lastmod>2025-05-15T16:19:20-04:00</lastmod>
   </url><url>
-    <loc>https://rowan.fragmentedpacket.com/posts/</loc>
-    <lastmod>2025-05-15T16:19:20-04:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://rowan.fragmentedpacket.com/</loc>
-    <lastmod>2025-05-15T16:19:20-04:00</lastmod>
-  </url><url>
-    <loc>https://rowan.fragmentedpacket.com/categories/</loc>
-  </url><url>
-    <loc>https://rowan.fragmentedpacket.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
